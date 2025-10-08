@@ -95,6 +95,6 @@ Pull requests and feedback are welcome!
 
 ## Copyright Notice
 
-The recent version of this demo includes samples created by @oleg-nenashev while working at Gradle, Inc/
+The recent version of this demo includes some samples created by @oleg-nenashev while working for Gradle, Inc.
 
 Gradle®, Develocity®, Build Scan®, and the Gradlephant logo are registered trademarks of Gradle, Inc. "Gradle" means "Gradle Build Tool" and does not reference Gradle, Inc. and/or its subsidiaries.
