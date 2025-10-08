@@ -7,8 +7,8 @@ And yes, you still need to test it.
 In this demo, we build a full-Java implementation for all key aspects of an application:
 
 - The application itself - Spring Boot
-- Build automation - Gradle Build Tool, aka Gradle
-- Test automation with Testcontainers, WireMock, LocalStack and other Java tools
+- Build automation - Gradle Build Tool, aka Gradle (see the copyright notice)
+- Test automation with Testcontainers, WireMock, LocalStack, and other Java tools
 - Configuration Management with [Pulumi for Java](https://www.pulumi.com/docs/languages-sdks/java/)
 - All the build logic with [Gradle Build Tool](https://gradle.org/), a.k.a Gradle.
   We will also use [Build Scan](https://docs.gradle.org/current/userguide/build_scans.html) from Gradle for troubleshooting
@@ -92,3 +92,9 @@ and, hence, it uses the MIT License.
 ## Contributing
 
 Pull requests and feedback are welcome!
+
+## Copyright Notice
+
+The recent version of this demo includes samples created by @oleg-nenashev while working at Gradle, Inc/
+
+Gradle®, Develocity®, Build Scan®, and the Gradlephant logo are registered trademarks of Gradle, Inc. "Gradle" means "Gradle Build Tool" and does not reference Gradle, Inc. and/or its subsidiaries.
